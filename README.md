@@ -4,7 +4,7 @@ Om te kunnen beoordelen of jouw development skills goed aansluiten bij het Van O
 
 ## Casus
 
-Voor de fictieve klant Toedels ontwikkelen we bij Van Ons een To-do list applicatie. Het is een eenvoudige applicatie waarin to-do's getoond worden in een lijst weergave. Er is een eenvoudig formulier om nieuwe to-do's toe te voegen en to-do's moeten afgevinkt kunnen worden. De applicatie wordt gebouwd met React en de state mag je bijhouden in localeStorage.
+Voor de fictieve klant Toedels ontwikkelen we bij Van Ons een To-do list applicatie. Het is een eenvoudige applicatie waarin to-do's getoond worden in een lijst weergave. Er is een eenvoudig formulier om nieuwe to-do's toe te voegen en to-do's moeten afgevinkt kunnen worden. De applicatie wordt gebouwd met React en de state mag je bijhouden in localStorage.
 
 Een aantal aandachtspunten op een rij:
 
