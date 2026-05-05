@@ -4,7 +4,7 @@ Om te kunnen beoordelen of jouw development skills goed aansluiten bij het Van O
 
 ## Casus
 
-Voor de fictieve klant Toedels ontwikkelen we bij Van Ons een To-do list applicatie. Het is een eenvoudige applicatie waarin to-do's getoond worden in een lijst weergave. Er is een eenvoudig formulier om nieuwe to-do's toe te voegen en to-do's moeten afgevinkt kunnen worden. De applicatie wordt gebouwd met React en de state mag je bijhouden in localStorage.
+Voor een fictieve klant Toedels ontwikkelen we bij Van Ons een To-do list applicatie. Het is een eenvoudige applicatie waarin to-do's getoond worden in een lijst weergave. Er is een eenvoudig formulier om nieuwe to-do's toe te voegen en to-do's moeten afgevinkt kunnen worden. De applicatie is gebouwd met React.
 
 Een aantal aandachtspunten op een rij:
 
@@ -23,8 +23,13 @@ Een designer bij Van Ons heeft een design gemaakt en gedeeld in [Figma](https://
 
 Het is aan jou om (a) te bedenken wat de beste aanpak is voor het implementeren van de React front-end en (b) de implementatie toe te passen.
 
-Bij de beoordeling van de opdracht letten we vooral op de kwaliteit en structuur van de code. Specifiek kijken we of het een logisch geschreven en "future proof" is. Met andere woorden, is jouw code flexibel genoeg voor toekomstige doorontwikkeling?
+Bij de beoordeling van de opdracht letten we vooral op de kwaliteit en structuur van de code. Specifiek kijken we of het een logisch geschreven en "future proof" is. Met andere woorden, is jouw code flexibel genoeg voor toekomstige doorontwikkeling? Daarnaast is het belangrijk dat je nadenkt over de MVP. De kans bestaat dat je de opdracht niet af redt in verband met tijdsnood. Denk goed na over welke features het belangrijkst zijn voor de fictieve klant, en welke je daarom als eerst uit gaat werken.
 
-Het gaat hier om een front-end opdracht, dus we kijken ook in hoeverre jouw eindproduct lijkt op het design. Hou er rekening mee dat het geheel responsive is en er op desktop dus ook goed uit moet zien.
+Het gaat hier om een front-end opdracht, dus we kijken ook in hoeverre jouw eindproduct lijkt op het design. Het is een mobile-first applicatie, maar hou er rekening mee dat het geheel responsive is en er op desktop dus ook goed uit moet zien.
 
-Er staat een schatting van 8 uur voor deze opdracht. Dat is niet bindend en het is zeker niet vereist om alles af te krijgen. We zijn vooral benieuwd naar jouw stijl en hoeveel jij binnen een bepaald tijdsbestek kan neerzetten. 
+Er staat een schatting van 8 uur voor deze opdracht. Dat is niet bindend en het is zeker niet vereist om alles af te krijgen. We zijn vooral benieuwd naar jouw stijl en hoeveel jij binnen een bepaald tijdsbestek kan neerzetten.
+
+## Output
+
+- Deze codebase met jouw toegevoegde features, voeg comments toe waar je extra uitleg wilt geven
+- Een nieuwe readme met uitleg over jouw implementatie, welke feature heb je wel/niet uitgewerkt?
