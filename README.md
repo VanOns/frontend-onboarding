@@ -31,5 +31,6 @@ Er staat een schatting van 8 uur voor deze opdracht. Dat is niet bindend en het 
 
 ## Output
 
-- Deze codebase met jouw toegevoegde features, voeg comments toe waar je extra uitleg wilt geven
-- Een nieuwe readme met uitleg over jouw implementatie, welke feature heb je wel/niet uitgewerkt?
+- Deze codebase met jouw toegevoegde features, voeg comments toe waar je extra uitleg wilt geven.
+- Een nieuwe readme met uitleg over jouw implementatie, welke features heb je wel/niet uitgewerkt?
+- Stel dit project wordt gemaakt voor een echte klant, welke stappen zijn er nog nodig om dit project productie waardig te krijgen? Voeg dit toe aan je nieuwe readme.
